@@ -78,8 +78,15 @@
         },
         {
           "name-attribute":"content",
-          "value-attribute":"-85Kuqx1UX0QmlkWk8u4_aHarpvF4hp-A5rCzshxZAU",
-          "0sAVajs_KfwW8W71YYCADyXMQ9otPK9t_8ioAGCo8oY"
+          "value-attribute":"-85Kuqx1UX0QmlkWk8u4_aHarpvF4hp-A5rCzshxZAU"
+        }
+        {
+          "name-attribute":"name",
+          "value-attribute":"google-site-verification"
+        },
+        {
+          "name-attribute":"content",
+          "value-attribute":"0sAVajs_KfwW8W71YYCADyXMQ9otPK9t_8ioAGCo8oY"
         }
       ],
       "data-innerHTML":"",

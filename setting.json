@@ -104,6 +104,21 @@
       "data-attribute":[
         {
           "name-attribute":"name",
+          "value-attribute":"google-site-verification"
+        },
+        {
+          "name-attribute":"content",
+          "value-attribute":"ZmR40SoX89C5hYtwfWJq1sNz78k1hWHt2fD9rAnwR7w"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
+    },
+    {
+      "name-element":"meta",
+      "data-attribute":[
+        {
+          "name-attribute":"name",
           "value-attribute":"viewport"
         },
         {
